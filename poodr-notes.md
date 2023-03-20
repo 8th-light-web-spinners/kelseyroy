@@ -4,6 +4,7 @@
 Why choose OOD?
 - OOD techniques produce cost-effective software that makes programming more enjoyable
 - The purpose of design is reduce the cost of change and create applications that are easily adaptable 
+
 What is OOD?
 - Object-oriented applications consist of *objects* that interact by passing *messages* to produce the behavior of the application. 
 - Goal is to *manage dependencies* aka arrange dependencies so that objects can tolerate change.
